@@ -1,6 +1,13 @@
 # vue-coe-test
 
-> A Vue.js project
+> This is a Vue.js project, and its associated document address is [Vue基础知识讲解——记一次给后端的培训](https://juejin.im/post/5c983aa0e51d456fa41a9c02)
+
+## Page show
+
+![演示首页](https://user-gold-cdn.xitu.io/2019/3/25/169b2b98d937aeb8?imageView2/1/w/1304/h/734/q/85/format/webp/interlace/1)
+
+[蓝色示例]可点击进入对应的知识点演示界面，每个演示操作都和该知识点及文档紧密相关，具体代码在/src/components/
+
 
 ## Build Setup
 
